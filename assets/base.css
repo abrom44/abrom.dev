@@ -1054,7 +1054,7 @@ p {
 }
 
 .has-images .menu-item:hover .menu-item-info {
-	height: 276px;
+	height: 138px;
 	top: 0
 }
 
@@ -1314,8 +1314,8 @@ p {
 	}
 	.wrapper {
 		*zoom: 1;
-		max-width: 276px;
-		_width: 276px;
+		max-width: 138px;
+		_width: 138px;
 		padding: 0;
 		margin-left: auto;
 		margin-right: auto
@@ -1390,7 +1390,7 @@ p {
 	}
 	.profile-content>.profile-image:before {
 		height: 136px;
-		width: 276px
+		width: 138px
 	}
 	.profile-image-pagination {
 		display: none
@@ -1536,7 +1536,7 @@ p {
 		min-height: 673px
 	}
 	.twitter-columns .module-twitter {
-		min-width: 276px
+		min-width: 138px
 	}
 }
 
@@ -1991,7 +1991,7 @@ p {
 		margin-top: 1.21429em
 	}
 	.menu-item-image:before {
-		height: 276px
+		height: 138px
 	}
 	.menu-item-info {
 		min-height: 40px
@@ -2021,12 +2021,12 @@ p {
 	.has-images .menu-item:hover .menu-item-name+.menu-item-description,
 	.has-images .menu-item:hover .menu-item-name+.business-info-address,
 	.has-images .menu-item:hover .menu-item-name+.business-bio {
-		height: 276px
+		height: 138px
 	}
 	.has-images .menu-item-description,
 	.has-images .business-info-address,
 	.has-images .business-bio {
-		height: 276px
+		height: 138px
 	}
 	.has-images .menu-item-variations {
 		display: none
@@ -2502,7 +2502,7 @@ screen and (min-width:64em) and (max-height:68.6875em) {
 		margin-top: 1.21429em
 	}
 	.menu-item-image:before {
-		height: 276px
+		height: 138px
 	}
 	.menu-item-info {
 		min-height: 40px
@@ -2532,12 +2532,12 @@ screen and (min-width:64em) and (max-height:68.6875em) {
 	.has-images .menu-item:hover .menu-item-name+.menu-item-description,
 	.has-images .menu-item:hover .menu-item-name+.business-info-address,
 	.has-images .menu-item:hover .menu-item-name+.business-bio {
-		height: 276px
+		height: 138px
 	}
 	.has-images .menu-item-description,
 	.has-images .business-info-address,
 	.has-images .business-bio {
-		height: 276px
+		height: 138px
 	}
 	.has-images .menu-item-variations {
 		display: none
@@ -2736,7 +2736,7 @@ screen and (min-width:64em) and (max-height:68.6875em) {
 		margin-top: 1.21429em
 	}
 	.menu-item-image:before {
-		height: 276px
+		height: 138px
 	}
 	.menu-item-info {
 		min-height: 40px
@@ -2766,12 +2766,12 @@ screen and (min-width:64em) and (max-height:68.6875em) {
 	.has-images .menu-item:hover .menu-item-name+.menu-item-description,
 	.has-images .menu-item:hover .menu-item-name+.business-info-address,
 	.has-images .menu-item:hover .menu-item-name+.business-bio {
-		height: 276px
+		height: 138px
 	}
 	.has-images .menu-item-description,
 	.has-images .business-info-address,
 	.has-images .business-bio {
-		height: 276px
+		height: 138px
 	}
 	.has-images .menu-item-variations {
 		display: none
