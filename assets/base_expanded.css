@@ -751,7 +751,7 @@ p {
 .menu-item-info {
   width: 100%}
 .has-images .menu-item:hover .menu-item-info {
-  height: 138px;
+  height: 276px;
   top: 0;
 }
 .menu-item-name {
@@ -951,8 +951,8 @@ p {
   }
   .wrapper {
     *zoom: 1;
-    max-width: 138px;
-    _width: 138px;
+    max-width: 276px;
+    _width: 276px;
     padding: 0;
     margin-left: auto;
     margin-right: auto;
@@ -1027,7 +1027,7 @@ p {
   }
   .profile-content>.profile-image:before {
     height: 136px;
-    width: 138px;
+    width: 276px;
   }
   .profile-image-pagination {
     display: none;
@@ -1160,7 +1160,7 @@ p {
     min-height: 673px;
   }
   .twitter-columns .module-twitter {
-    min-width: 138px;
+    min-width: 276px;
   }
 }
 @media screen and (min-width: 30em) and (max-width: 37.4375em) {
@@ -1589,7 +1589,7 @@ p {
     margin-top: 1.21429em;
   }
   .menu-item-image:before {
-    height: 138px;
+    height: 276px;
   }
   .menu-item-info {
     min-height: 40px;
@@ -1613,10 +1613,10 @@ p {
     white-space: nowrap;
   }
   .has-images .menu-item:hover .menu-item-name+.menu-item-description, .has-images .menu-item:hover .menu-item-name+.business-info-address, .has-images .menu-item:hover .menu-item-name+.business-bio {
-    height: 138px;
+    height: 276px;
   }
   .has-images .menu-item-description, .has-images .business-info-address, .has-images .business-bio {
-    height: 138px;
+    height: 276px;
   }
   .has-images .menu-item-variations {
     display: none;
@@ -2063,7 +2063,7 @@ p {
     margin-top: 1.21429em;
   }
   .menu-item-image:before {
-    height: 138px;
+    height: 276px;
   }
   .menu-item-info {
     min-height: 40px;
@@ -2087,10 +2087,10 @@ p {
     white-space: nowrap;
   }
   .has-images .menu-item:hover .menu-item-name+.menu-item-description, .has-images .menu-item:hover .menu-item-name+.business-info-address, .has-images .menu-item:hover .menu-item-name+.business-bio {
-    height: 138px;
+    height: 276px;
   }
   .has-images .menu-item-description, .has-images .business-info-address, .has-images .business-bio {
-    height: 138px;
+    height: 276px;
   }
   .has-images .menu-item-variations {
     display: none;
@@ -2281,7 +2281,7 @@ p {
     margin-top: 1.21429em;
   }
   .menu-item-image:before {
-    height: 138px;
+    height: 276px;
   }
   .menu-item-info {
     min-height: 40px;
@@ -2305,10 +2305,10 @@ p {
     white-space: nowrap;
   }
   .has-images .menu-item:hover .menu-item-name+.menu-item-description, .has-images .menu-item:hover .menu-item-name+.business-info-address, .has-images .menu-item:hover .menu-item-name+.business-bio {
-    height: 138px;
+    height: 276px;
   }
   .has-images .menu-item-description, .has-images .business-info-address, .has-images .business-bio {
-    height: 138px;
+    height: 276px;
   }
   .has-images .menu-item-variations {
     display: none;
